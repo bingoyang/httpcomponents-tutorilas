@@ -16,8 +16,8 @@ import org.apache.http.impl.client.DefaultHttpClient;
 import org.apache.http.util.EntityUtils;
 
 public class HttpGetDemo {
-
     public static void main(String[] args) throws Exception {
+        
         testHttpGet();
     }
 
